@@ -1,0 +1,13 @@
+{
+  "name": "Dan.G.Hier",
+  "short_name": "DanGHier",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Futuristic fashion & accessories",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
